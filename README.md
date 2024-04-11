@@ -29,7 +29,7 @@ This project implements advanced Natural Language Processing (NLP) techniques to
 ...
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/your_username/english-singlish-similarity.git`
+1. Clone the repository: `https://github.com/DeelakaDias/Authorship-Attribution-through-Machine-Learning-and-Stylometry.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download NLTK data: `python -m nltk.downloader all`
 4. Run the backend: `python backend.py`
