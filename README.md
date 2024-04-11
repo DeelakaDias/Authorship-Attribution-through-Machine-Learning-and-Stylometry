@@ -11,10 +11,10 @@ This project implements advanced Natural Language Processing (NLP) techniques to
 - Global alignment algorithms for handling variations and misspellings
 
 ## Contributors
-- [Nabeelah](https://github.com/nabeelah)
-- [Adeepa](https://github.com/adeepa)
-- [Benura](https://github.com/benura)
-- [Deelaka](https://github.com/deelaka)
+- [Nabeelah](https://github.com/NabeelahF)
+- [Adeepa](https://github.com/cipherdragon)
+- [Benura](https://github.com/Benura2020)
+- [Deelaka](https://github.com/DeelakaDias)
 
 ### Nabeelah's Contribution
 ...
