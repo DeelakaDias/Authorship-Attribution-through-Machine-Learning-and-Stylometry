@@ -1,4 +1,4 @@
-# English-Singlish Similarity Detection
+# Authorship Attribution Through Machine Learning and Stylometry
 
 ## Overview
 This project implements advanced Natural Language Processing (NLP) techniques to detect similarity between English and Singlish texts, a hybrid language blend of English and Sinhala commonly used in Sri Lanka. The system includes features such as dataset creation, feature engineering, model building, and frontend/backend implementation.
