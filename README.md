@@ -16,18 +16,6 @@ This project implements advanced Natural Language Processing (NLP) techniques to
 - [Benura](https://github.com/Benura2020)
 - [Deelaka](https://github.com/DeelakaDias)
 
-### Nabeelah's Contribution
-...
-
-### Adeepa's Contribution
-...
-
-### Benura's Contribution
-...
-
-### Deelaka's Contribution
-...
-
 ## Setup Instructions
 1. Clone the repository: `https://github.com/DeelakaDias/Authorship-Attribution-through-Machine-Learning-and-Stylometry.git`
 2. Install dependencies: `pip install -r requirements.txt`
